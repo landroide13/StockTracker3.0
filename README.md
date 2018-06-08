@@ -6,3 +6,5 @@ application up and running.
 Things you may want to cover:
 
 * StockTracker 3.0 version.
+* Search stocks
+* Deployment the choosen stocks throw AJAX.
