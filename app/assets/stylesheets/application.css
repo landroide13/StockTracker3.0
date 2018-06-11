@@ -11,6 +11,7 @@
  * It is generally better to create a new file per style scope.
  *
  *= require devise_bootstrap_views
+ *= require font-awesome
  *= require_tree .
  *= require_self
  */
@@ -28,5 +29,11 @@
   padding-left: 15px !important;
 }
 
+.logout{
+  padding-left: 0;
+}
 
+.user-name{
+  padding-top: 15px;
+}
 
