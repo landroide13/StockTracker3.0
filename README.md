@@ -9,3 +9,4 @@ Things you may want to cover:
 * Use Devise Gem to User Authentication.
 * Search stocks with Stock_quote Gem.
 * Deployment the choosen stocks throw AJAX.
+* Follow others Users and his Stocks.
